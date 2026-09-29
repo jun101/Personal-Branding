@@ -90,7 +90,6 @@ et enseignant universitaire en Haïti : Java, PHP/Laravel et administration de s
 **Outils**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 
 ---
 
