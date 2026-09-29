@@ -1,51 +1,51 @@
 <div align="center">
 
-<img src="assets/avatar/hero-id-round.png" alt="3D avatar of Josué Junior Fleuridor" width="160">
+<img src="assets/avatar/hero-id-round.png" alt="Avatar 3D de Josué Junior Fleuridor" width="160">
 
-# Hi, I'm Josué Junior Fleuridor 👋
+# Bonjour, moi c'est Josué Junior Fleuridor 👋
 
-**DevOps Engineer · Data Science Specialist**
+**Ingénieur DevOps · Spécialiste Data Science**
 
-I build and secure the Linux and Docker infrastructure behind data-driven products,
-and I teach the next generation of engineers in Haiti to do the same.
+Je construis et sécurise l'infrastructure Linux et Docker derrière des produits pilotés par la donnée,
+et je forme la prochaine génération d'ingénieurs en Haïti à faire de même.
 
-📍 Jacksonville, FL, USA · Cap-Haïtien, Haiti
+📍 Jacksonville, Floride, États-Unis · Cap-Haïtien, Haïti
 
-[![Website](https://img.shields.io/badge/Website-josuejunior.fleuridor.com-2563eb?style=flat&labelColor=0b1f3f)](https://josuejunior.fleuridor.com)
+[![Site web](https://img.shields.io/badge/Site_web-josuejunior.fleuridor.com-2563eb?style=flat&labelColor=0b1f3f)](https://josuejunior.fleuridor.com/fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Josué_Junior_Fleuridor-2563eb?style=flat&labelColor=0b1f3f)](https://www.linkedin.com/in/josu%C3%A9-junior-fleuridor-b6905b157/)
 [![X](https://img.shields.io/badge/X-@jun__101__ht-2563eb?style=flat&logo=x&logoColor=white&labelColor=0b1f3f)](https://x.com/jun_101_ht)
 [![Credly](https://img.shields.io/badge/Credly-7_certifications-2563eb?style=flat&logo=credly&logoColor=white&labelColor=0b1f3f)](https://www.credly.com/users/josue-junior-fleuridor)
 
-🇫🇷 [Lire en français](README.fr.md) · 🇭🇹 Mwen pale kreyòl, franse ak angle. Ann pale!
+🇬🇧 [Read in English](README.md) · 🇭🇹 Mwen pale kreyòl, franse ak angle. Ann pale!
 
 </div>
 
 ---
 
-## 🟢 Now
+## 🟢 En ce moment
 
-**DevOps Engineer at Devora** (Canadian firm, remote) since December 2025.
+**Ingénieur DevOps chez Devora** (entreprise canadienne, en télétravail) depuis décembre 2025.
 
-- Deployed the company's application to production and maintain it day to day.
-- Run **4 production servers** around the clock at **99.98% uptime**.
-- WireGuard VPN access, PostgreSQL databases, MinIO object storage.
-- Fleet hardened with CrowdSec and fail2ban.
+- J'ai mis l'application de l'entreprise en production et j'en assure la maintenance au quotidien.
+- J'exploite **4 serveurs de production** 24 h/24 avec **99,98 % de disponibilité**.
+- Accès VPN WireGuard, bases PostgreSQL, stockage objet MinIO.
+- Parc durci avec CrowdSec et fail2ban.
 
-**Before:** Linux Server Administrator & Web Developer at Alpha Group (2017–2025),
-and university instructor in Haiti, teaching Java, PHP/Laravel and Linux server administration.
+**Avant :** administrateur de serveurs Linux et développeur web chez Alpha Group (2017–2025),
+et enseignant universitaire en Haïti : Java, PHP/Laravel et administration de serveurs Linux.
 
-**8+** years running production systems · **4** servers at 99.98% uptime · **7** verified certifications · **500+** students taught
+**8+** années de systèmes en production · **4** serveurs à 99,98 % de disponibilité · **7** certifications vérifiées · **500+** étudiants formés
 
-- 🛠️ I run my own self-hosted infrastructure.
+- 🛠️ Je gère ma propre infrastructure auto-hébergée.
 - 🎓 Technical Certificate, FinTech Technician (Data Analytics), Florida State College at Jacksonville, 2026.
-- 🔬 Research interest: data science for emerging markets, especially Haiti: financial inclusion, diaspora remittances, fraud detection.
-- 🗣️ Haitian Creole (native) · French (bilingual) · English (professional).
+- 🔬 Recherche : la data science au service des marchés émergents, surtout Haïti : inclusion financière, transferts de la diaspora, détection de fraude.
+- 🗣️ Créole haïtien (langue maternelle) · Français (bilingue) · Anglais (professionnel).
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Stack technique
 
-**Infrastructure & Security**
+**Infrastructure et sécurité**
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -69,7 +69,7 @@ and university instructor in Haiti, teaching Java, PHP/Laravel and Linux server 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=flat&logo=uptimekuma&logoColor=white)
 
-**Development**
+**Développement**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -81,13 +81,13 @@ and university instructor in Haiti, teaching Java, PHP/Laravel and Linux server 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
 
-**Data**
+**Données**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SAS Viya](https://img.shields.io/badge/SAS_Viya-007DC3?style=flat)
 
-**Tools**
+**Outils**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
@@ -96,9 +96,9 @@ and university instructor in Haiti, teaching Java, PHP/Laravel and Linux server 
 
 ## 🏅 Certifications
 
-All seven are verifiable on [Credly](https://www.credly.com/users/josue-junior-fleuridor).
+Les sept sont vérifiables sur [Credly](https://www.credly.com/users/josue-junior-fleuridor).
 
-| Certification | Issuer | Year |
+| Certification | Organisme | Année |
 |---|---|---|
 | [Security+ ce](https://www.credly.com/badges/b13d3b96-11f9-4b76-a985-ceca7c29a138/public_url) | CompTIA | 2026 |
 | [Network+ ce](https://www.credly.com/badges/89dd0df8-ea95-4b1c-8a17-712e769045f7/public_url) | CompTIA | 2026 |
@@ -108,36 +108,39 @@ All seven are verifiable on [Credly](https://www.credly.com/users/josue-junior-f
 | [Introduction to Data Science](https://www.credly.com/badges/b3910b76-1e82-4088-86e2-bc0b22d843c5/public_url) | Cisco | 2026 |
 | [SAS Viya Overview](https://www.credly.com/badges/c6b26de0-cb66-42ff-ae14-1beb7c9c2794/public_url) | SAS | 2026 |
 
+
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projets phares
 
-| Project | What it is |
+| Projet | En bref |
 |---|---|
-| [**DevOps at Devora**](projects/devops-at-devora.md) | A company application on 4 production servers: WireGuard, PostgreSQL, MinIO, CrowdSec, fail2ban. 99.98% uptime. |
-| [**Personal Website**](projects/personal-website.md) | My site: Laravel API + Next.js front end in Docker, CI/CD to production, EN/FR, admin panel. |
-| [**Self-Hosted Infrastructure**](projects/self-hosted-infrastructure.md) | My own private cloud, file sync, and notifications, run with Docker on Debian. |
+| [**DevOps chez Devora**](projects/devops-at-devora.md) | L'application d'une entreprise sur 4 serveurs de production : WireGuard, PostgreSQL, MinIO, CrowdSec, fail2ban. 99,98 % de disponibilité. |
+| [**Site personnel**](projects/personal-website.md) | Mon site : API Laravel + front Next.js sous Docker, CI/CD jusqu'en production, FR/EN, panneau d'administration. |
+| [**Infrastructure auto-hébergée**](projects/self-hosted-infrastructure.md) | Mon cloud privé, ma synchro de fichiers et mes notifications, avec Docker sur Debian. |
 
-More on the [projects section of my website](https://josuejunior.fleuridor.com/en#projects).
+D'autres projets dans la [section projets de mon site](https://josuejunior.fleuridor.com/fr#projects).
 
-**Coursework:** [Web Design Exercises](projects/web-design-exercises.md), HTML and CSS work from FSCJ.
+**Travaux de cours :** [exercices de web design](projects/web-design-exercises.md), HTML et CSS au FSCJ.
 
----
-
-## ✍️ Latest Write-ups
-
-- [How I self-host my own cloud with Nextcloud and Docker](posts/self-hosting-nextcloud-docker.md)
-
-👉 [See all posts](posts/README.md) · 📓 [Learning log](LEARNING-LOG.md) · 🎨 [Brand kit](brand/README.md)
+*Les pages projets et les articles sont en anglais.*
 
 ---
 
-## 📫 Connect with me
+## ✍️ Derniers articles
 
-[![Website](https://img.shields.io/badge/Website-2563eb?style=flat)](https://josuejunior.fleuridor.com)
+- [Comment j'auto-héberge mon cloud avec Nextcloud et Docker](posts/self-hosting-nextcloud-docker.md) (en anglais)
+
+👉 [Tous les articles](posts/README.md) · 📓 [Journal d'apprentissage](LEARNING-LOG.md) · 🎨 [Charte de marque](brand/README.md)
+
+---
+
+## 📫 Me contacter
+
+[![Site web](https://img.shields.io/badge/Site_web-2563eb?style=flat)](https://josuejunior.fleuridor.com/fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1f3f?style=flat)](https://www.linkedin.com/in/josu%C3%A9-junior-fleuridor-b6905b157/)
 [![X](https://img.shields.io/badge/X-0b1f3f?style=flat&logo=x&logoColor=white)](https://x.com/jun_101_ht)
 [![Credly](https://img.shields.io/badge/Credly-0b1f3f?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/josue-junior-fleuridor)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jun101)
 
-✉️ Want to work together? Use the [contact form on my website](https://josuejunior.fleuridor.com/en#contact).
+✉️ Un projet en tête ? Passez par le [formulaire de contact de mon site](https://josuejunior.fleuridor.com/fr#contact).

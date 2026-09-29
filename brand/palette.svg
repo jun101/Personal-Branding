@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="150" viewBox="0 0 720 150" font-family="JetBrains Mono, ui-monospace, monospace" font-size="13">
+  <rect width="720" height="150" fill="#f4f3ee"/>
+  <g>
+    <rect x="16" y="16" width="120" height="80" rx="10" fill="#2563eb"/>
+    <text x="16" y="116" fill="#0b1f3f">Accent</text>
+    <text x="16" y="134" fill="#0b1f3f">#2563eb</text>
+  </g>
+  <g>
+    <rect x="156" y="16" width="120" height="80" rx="10" fill="#1d4ed8"/>
+    <text x="156" y="116" fill="#0b1f3f">Accent hover</text>
+    <text x="156" y="134" fill="#0b1f3f">#1d4ed8</text>
+  </g>
+  <g>
+    <rect x="296" y="16" width="120" height="80" rx="10" fill="#0b1f3f"/>
+    <text x="296" y="116" fill="#0b1f3f">Navy</text>
+    <text x="296" y="134" fill="#0b1f3f">#0b1f3f</text>
+  </g>
+  <g>
+    <rect x="436" y="16" width="120" height="80" rx="10" fill="#8ec5ff"/>
+    <text x="436" y="116" fill="#0b1f3f">Sky</text>
+    <text x="436" y="134" fill="#0b1f3f">#8ec5ff</text>
+  </g>
+  <g>
+    <rect x="576" y="16" width="120" height="80" rx="10" fill="#e8f0fe" stroke="#0b1f3f" stroke-opacity="0.15"/>
+    <text x="576" y="116" fill="#0b1f3f">Chip</text>
+    <text x="576" y="134" fill="#0b1f3f">#e8f0fe</text>
+  </g>
+</svg>
