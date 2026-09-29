@@ -1,0 +1,24 @@
+# Secrets and credentials — never commit these
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+*.kdbx
+*.gpg
+id_rsa*
+id_ed25519*
+*.ovpn
+wg*.conf
+secrets/
+credentials*
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
