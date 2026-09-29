@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/avatar/hero-id.jpg" alt="3D avatar of Josué Junior Fleuridor" width="160" style="border-radius: 50%;">
+<img src="assets/avatar/hero-id-round.png" alt="3D avatar of Josué Junior Fleuridor" width="160">
 
 # Hi, I'm Josué Junior Fleuridor 👋
 

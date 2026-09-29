@@ -37,6 +37,7 @@ I use a Pixar-style 3D avatar instead of a photo. That's on purpose.
 | File | Use |
 |---|---|
 | [`hero-id.jpg`](../assets/avatar/hero-id.jpg) | Profile picture, square, 1024 × 1024 |
+| [`hero-id-round.png`](../assets/avatar/hero-id-round.png) | Round-cropped portrait for READMEs (GitHub strips CSS), 400 × 400 |
 | [`hero.webp`](../assets/avatar/hero.webp) | Full body, transparent background |
 | [`pose-*.webp`](../assets/avatar/) | Career moments: student, terminal, teaching, laptop, certified, today |
 
