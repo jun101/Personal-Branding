@@ -1,9 +1,9 @@
 # How I self-host my own cloud with Nextcloud and Docker
 
-*[TODO: publish date] · ~5 min read*
+*~5 min read*
 
-I wanted my files, photos, and calendar in one place. And I wanted to own that place.
-So I built my own cloud at home with Nextcloud and Docker.
+I wanted my files in one place. And I wanted to own that place.
+So I built my own cloud with Nextcloud and Docker.
 Here's how I think about it, in plain terms.
 
 ---
@@ -12,9 +12,6 @@ Here's how I think about it, in plain terms.
 
 - **Control.** My data lives on hardware I own.
 - **Learning.** Every problem teaches me something about Linux, networking, or security.
-- **Cost.** [TODO: your take on cost vs. paid cloud storage]
-
-[TODO: add the moment or reason you decided to start]
 
 ## The building blocks
 
@@ -28,9 +25,9 @@ Here's how I think about it, in plain terms.
 
 ## How it fits together (the big picture)
 
-1. Debian runs on my home server.
+1. Debian runs on my server.
 2. Docker runs Nextcloud and its database as separate containers.
-3. A reverse proxy handles secure (HTTPS) connections. [TODO: which one you like, in general terms]
+3. A reverse proxy handles secure (HTTPS) connections.
 4. When I'm away, I connect through a VPN instead of opening my server to the whole internet.
 
 > 💡 **Beginner tip:** Start with Docker Compose. One file describes all your containers, so you can rebuild your setup in minutes.
@@ -43,14 +40,6 @@ Here's how I think about it, in plain terms.
 - Keep secrets (passwords, keys) in files that never go into Git.
 - Back up. Then test that the backup actually restores.
 
-[TODO: one thing you learned the hard way]
-
-## What I learned
-
-- [TODO: lesson 1]
-- [TODO: lesson 2]
-- [TODO: lesson 3]
-
 ## If you want to try it
 
 1. Get an old PC or a small mini PC.
@@ -58,10 +47,6 @@ Here's how I think about it, in plain terms.
 3. Install Docker and Docker Compose.
 4. Follow the official Nextcloud Docker guide.
 5. Break things, fix them, and take notes. That's the real course.
-
-## What's next
-
-[TODO: what you want to add or improve next]
 
 ---
 

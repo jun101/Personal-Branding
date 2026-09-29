@@ -2,9 +2,9 @@
 
 Short, beginner-friendly posts about what I build and learn.
 
-| Date | Post | Topics |
-|---|---|---|
-| [TODO: YYYY-MM-DD] | [How I self-host my own cloud with Nextcloud and Docker](self-hosting-nextcloud-docker.md) | Self-hosting, Docker, Nextcloud |
+| Post | Topics |
+|---|---|
+| [How I self-host my own cloud with Nextcloud and Docker](self-hosting-nextcloud-docker.md) | Self-hosting, Docker, Nextcloud |
 
 ## Adding a new post
 

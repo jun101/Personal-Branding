@@ -2,10 +2,8 @@
 
 **Self-hosting enthusiast and web design student at FSCJ, building practical tools with Linux, Docker, and AI coding agents.**
 
-- 🛠️ I run my own self-hosted infrastructure at home.
-- 💼 I build real-world apps, like a point-of-sale system and an election platform.
+- 🛠️ I run my own self-hosted infrastructure.
 - 🎓 I'm studying web design at FSCJ.
-- 🌱 Right now I'm learning: [TODO: what you're learning right now]
 
 ---
 
@@ -43,9 +41,7 @@
 
 | Project | What it is |
 |---|---|
-| [**Self-Hosted Infrastructure**](projects/self-hosted-infrastructure.md) | My own private cloud, file sync, and notifications, run with Docker on Debian. Taught me networking, security, and backups. |
-| [**KoralPOS / VentPam**](projects/koralpos.md) | A point-of-sale system, with an auto-parts version called VentPam. [TODO: one line on what you learned] |
-| [**Election Platform**](projects/election-platform.md) | [TODO: one line on what it does and what you used] |
+| [**Self-Hosted Infrastructure**](projects/self-hosted-infrastructure.md) | My own private cloud, file sync, and notifications, run with Docker on Debian. |
 | [**Web Design Exercises**](projects/web-design-exercises.md) | Hands-on HTML and CSS work from my web design course at FSCJ. |
 
 ---
@@ -60,7 +56,4 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/YOUR-X-HANDLE)
-[![Website](https://img.shields.io/badge/Website-4B5563?style=flat&logo=googlechrome&logoColor=white)](https://YOUR-WEBSITE.example)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jun101)
