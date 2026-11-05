@@ -1,28 +1,57 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.fr.svg" alt="Josué Junior Fleuridor" width="900">
+</p>
 
-<img src="assets/avatar/hero-id-round.png" alt="Avatar 3D de Josué Junior Fleuridor" width="160">
+<h3 align="center">Je construis et sécurise l'infrastructure Linux et Docker derrière des produits pilotés par la donnée.</h3>
 
-# Bonjour, moi c'est Josué Junior Fleuridor 👋
+<p align="center">
+  Ingénieur DevOps chez Devora. Je forme aussi la prochaine génération d'ingénieurs en Haïti à faire de même.<br>
+  📍 Jacksonville, Floride, États-Unis · Cap-Haïtien, Haïti
+</p>
 
-**Ingénieur DevOps · Spécialiste Data Science**
+<hr />
 
-Je construis et sécurise l'infrastructure Linux et Docker derrière des produits pilotés par la donnée,
-et je forme la prochaine génération d'ingénieurs en Haïti à faire de même.
+<p align="center">
+  <a href="https://josuejunior.fleuridor.com/fr">Site web</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/josu%C3%A9-junior-fleuridor-b6905b157/">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="https://x.com/jun_101_ht">X</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.credly.com/users/josue-junior-fleuridor">Credly</a>
+  &nbsp;|&nbsp;
+  <a href="posts/README.md">Articles</a>
+  &nbsp;|&nbsp;
+  <a href="brand/README.md">Charte de marque</a>
+  &nbsp;|&nbsp;
+  <a href="README.md">🇬🇧 English</a>
+</p>
 
-📍 Jacksonville, Floride, États-Unis · Cap-Haïtien, Haïti
+<p align="center">
+  <img alt="8+ ans de systèmes en production" src="https://img.shields.io/badge/production-8%2B_ans-2563eb?style=flat&labelColor=0b1f3f">
+  <img alt="4 serveurs à 99,98 % de disponibilité" src="https://img.shields.io/badge/disponibilité-99,98%25_sur_4_serveurs-2563eb?style=flat&labelColor=0b1f3f">
+  <img alt="7 certifications vérifiées" src="https://img.shields.io/badge/certifications-7_vérifiées-2563eb?style=flat&labelColor=0b1f3f">
+  <img alt="500+ étudiants formés" src="https://img.shields.io/badge/étudiants_formés-500%2B-2563eb?style=flat&labelColor=0b1f3f">
+</p>
 
-[![Site web](https://img.shields.io/badge/Site_web-josuejunior.fleuridor.com-2563eb?style=flat&labelColor=0b1f3f)](https://josuejunior.fleuridor.com/fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Josué_Junior_Fleuridor-2563eb?style=flat&labelColor=0b1f3f)](https://www.linkedin.com/in/josu%C3%A9-junior-fleuridor-b6905b157/)
-[![X](https://img.shields.io/badge/X-@jun__101__ht-2563eb?style=flat&logo=x&logoColor=white&labelColor=0b1f3f)](https://x.com/jun_101_ht)
-[![Credly](https://img.shields.io/badge/Credly-7_certifications-2563eb?style=flat&logo=credly&logoColor=white&labelColor=0b1f3f)](https://www.credly.com/users/josue-junior-fleuridor)
+&nbsp;
 
-🇬🇧 [Read in English](README.md) · 🇭🇹 Mwen pale kreyòl, franse ak angle. Ann pale!
+<p align="center">
+  <img src="assets/avatar/pose-student.webp" alt="Avatar étudiant" height="150">
+  <img src="assets/avatar/pose-terminal.webp" alt="Avatar au terminal" height="150">
+  <img src="assets/avatar/pose-teaching.webp" alt="Avatar en cours" height="150">
+  <img src="assets/avatar/pose-laptop.webp" alt="Avatar avec un portable" height="150">
+  <img src="assets/avatar/pose-certified.webp" alt="Avatar certifié" height="150">
+  <img src="assets/avatar/pose-today.webp" alt="Avatar aujourd'hui" height="150">
+</p>
 
-</div>
+&nbsp;
 
 ---
 
-## 🟢 En ce moment
+&nbsp;
+
+# 🟢 En ce moment
 
 **Ingénieur DevOps chez Devora** (entreprise canadienne, en télétravail) depuis décembre 2025.
 
@@ -41,9 +70,13 @@ et enseignant universitaire en Haïti : Java, PHP/Laravel et administration de s
 - 🔬 Recherche : la data science au service des marchés émergents, surtout Haïti : inclusion financière, transferts de la diaspora, détection de fraude.
 - 🗣️ Créole haïtien (langue maternelle) · Français (bilingue) · Anglais (professionnel).
 
+&nbsp;
+
 ---
 
-## 🧰 Stack technique
+&nbsp;
+
+# 🧰 Stack technique
 
 **Infrastructure et sécurité**
 
@@ -91,9 +124,13 @@ et enseignant universitaire en Haïti : Java, PHP/Laravel et administration de s
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+&nbsp;
+
 ---
 
-## 🏅 Certifications
+&nbsp;
+
+# 🏅 Certifications
 
 Les sept sont vérifiables sur [Credly](https://www.credly.com/users/josue-junior-fleuridor).
 
@@ -107,10 +144,13 @@ Les sept sont vérifiables sur [Credly](https://www.credly.com/users/josue-junio
 | [Introduction to Data Science](https://www.credly.com/badges/b3910b76-1e82-4088-86e2-bc0b22d843c5/public_url) | Cisco | 2026 |
 | [SAS Viya Overview](https://www.credly.com/badges/c6b26de0-cb66-42ff-ae14-1beb7c9c2794/public_url) | SAS | 2026 |
 
+&nbsp;
 
 ---
 
-## 🚀 Projets phares
+&nbsp;
+
+# 🚀 Projets phares
 
 | Projet | En bref |
 |---|---|
@@ -124,17 +164,25 @@ D'autres projets dans la [section projets de mon site](https://josuejunior.fleur
 
 *Les pages projets et les articles sont en anglais.*
 
+&nbsp;
+
 ---
 
-## ✍️ Derniers articles
+&nbsp;
+
+# ✍️ Derniers articles
 
 - [Comment j'auto-héberge mon cloud avec Nextcloud et Docker](posts/self-hosting-nextcloud-docker.md) (en anglais)
 
 👉 [Tous les articles](posts/README.md) · 📓 [Journal d'apprentissage](LEARNING-LOG.md) · 🎨 [Charte de marque](brand/README.md)
 
+&nbsp;
+
 ---
 
-## 📫 Me contacter
+&nbsp;
+
+# 📫 Me contacter
 
 [![Site web](https://img.shields.io/badge/Site_web-2563eb?style=flat)](https://josuejunior.fleuridor.com/fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b1f3f?style=flat)](https://www.linkedin.com/in/josu%C3%A9-junior-fleuridor-b6905b157/)
